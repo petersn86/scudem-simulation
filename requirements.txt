@@ -1,0 +1,10 @@
+## ⚙️ **requirements.txt**
+
+# Core dependencies
+datasets
+transformers
+torch
+numpy
+scipy
+tqdm
+pandas
